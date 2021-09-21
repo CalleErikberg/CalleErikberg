@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CalleErikberg
+- 👀 I’m interested in becoming a Front-end developer
+- 🌱 I’m currently learning more about React.js
+- 💞️ I’m looking for work
+- 📫 Reach me on email, available on my portfolio erikcalleberg.com
