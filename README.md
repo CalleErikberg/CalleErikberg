@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @CalleErikberg
-- 👀 I’m interested in becoming a UX/UI-designer
-- 🌱 I’m currently learning more about Figma
-- 💞️ I’m looking for work
-- 📫 Reach me on email, available on my portfolio erikcalleberg.com
+- 👀 Working as a UX designer
